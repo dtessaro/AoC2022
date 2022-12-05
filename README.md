@@ -7,13 +7,15 @@ There you find all solution converted in Excel, otherwise in this [GDrive](https
 
 | Day  | Status | Day  | Status | Day  | Status | Day  | Status | Day  | Status |
 | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ |
-| 01 | :star: :star: | 06 | :calendar: | 11 | :calendar:  | 16 | :calendar:  | 21 | :calendar:  |
-| 02 | :star: :star: | 07 | :calendar: | 12 | :calendar:  | 17 | :calendar:  | 22 | :calendar: |
-| 03 | :star: :star: | 08 | :calendar: | 13 | :calendar:  | 18 | :calendar: | 23 | :calendar: |
-| 04 | :star: :star: | 09 | :calendar: | 14 | :calendar:  | 19 | :calendar:  | 24 | :calendar: |
-| 05 | :star: :star: | 10 |  :calendar: | 15 | :calendar:  | 20 | :calendar: | 25 | :calendar: |
+| [01](#day-01) | :star: :star: | 06 | :calendar: | 11 | :calendar:  | 16 | :calendar:  | 21 | :calendar:  |
+| [02](#day-02) | :star: :star: | 07 | :calendar: | 12 | :calendar:  | 17 | :calendar:  | 22 | :calendar: |
+| [03](#day-03) | :star: :star: | 08 | :calendar: | 13 | :calendar:  | 18 | :calendar: | 23 | :calendar: |
+| [04](#day-04) | :star: :star: | 09 | :calendar: | 14 | :calendar:  | 19 | :calendar:  | 24 | :calendar: |
+| [05](#day-05) | :star: :star: | 10 |  :calendar: | 15 | :calendar:  | 20 | :calendar: | 25 | :calendar: |
 
-<details><summary> <h3> Day 1: Calorie Counting </h3> </summary>
+---
+## Day 01
+<details><summary> Calorie Counting </summary>
 Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
 To supply enough magical energy, the expedition needs to retrieve a minimum of fifty stars by December 25th. Although the Elves assure you that the grove has plenty of fruit, you decide to grab any fruit you see along the way, just in case.
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
@@ -54,10 +56,12 @@ To avoid this unacceptable situation, the Elves would instead like to know the t
 In the example above, the top three Elves are the fourth Elf (with 24000 Calories), then the third Elf (with 11000 Calories), then the fifth Elf (with 10000 Calories). The sum of the Calories carried by these three elves is 45000. <br/>
 
 `Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?`
-
-
 </details>
-<details><summary> <h3> Day 2: Rock Paper Scissors </h3> </summary>
+
+---
+
+## Day 02
+<details><summary> Rock Paper Scissors  </summary>
 
 
 The Elves begin to set up camp on the beach. To decide whose tent gets to be closest to the snack storage, a giant Rock Paper Scissors tournament is already in progress.
@@ -93,7 +97,11 @@ Following the Elf's instructions for the second column, <br/>
 
 
 </details>
-<details><summary> <h3> Day 3: Rucksack Reorganization </h3> </summary>
+
+---
+
+## Day 03
+<details><summary> Rucksack Reorganization </summary>
 
 
 One Elf has the important job of loading all of the rucksacks with supplies for the jungle journey. Unfortunately, that Elf didn't quite follow the packing instructions, and so a few items now need to be rearranged.
@@ -145,7 +153,11 @@ Priorities for these items must still be found to organize the sticker attachmen
 `Find the item type that corresponds to the badges of each three-Elf group. What is the sum of the priorities of those item types?`
 
 </details>
-<details><summary> <h3> Day 4: Camp Cleanup </h3> </summary>
+
+---
+
+## Day 04
+<details><summary> Camp Cleanup </summary>
 
 Space needs to be cleared before the last supplies can be unloaded from the ships, and so several Elves have been assigned the job of cleaning up sections of the camp. Every section has a unique ID number, and each Elf is assigned a range of section IDs.
 However, as some of the Elves compare their section assignments with each other, they've noticed that many of the assignments overlap. To try to quickly find overlaps and reduce duplicated effort, the Elves pair up and make a big list of the section assignments for each pair (your puzzle input).
@@ -202,7 +214,11 @@ So, in this example, the number of overlapping assignment pairs is 4.
 
 
 </details>
-<details><summary> <h3> Day 5: Supply Stacks </h3> </summary>
+
+---
+
+## Day 05
+<details><summary> Supply Stacks </summary>
 
 
 The expedition can depart as soon as the final supplies have been unloaded from the ships. Supplies are stored in stacks of marked crates, but because the needed supplies are buried under many other crates, the crates need to be rearranged.
@@ -302,3 +318,20 @@ In this example, the CrateMover 9001 has put the crates in a totally different o
 
 Before the rearrangement process finishes, update your simulation so that the Elves know where they should stand to be ready to unload the final supplies. <br/>
 `After the rearrangement procedure completes, what crate ends up on top of each stack?`
+
+</details>
+
+---
+
+<!--- 
+
+## Day 06
+<details><summary> </summary>
+
+
+
+</details>
+
+---
+
+>
