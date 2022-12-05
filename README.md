@@ -1,6 +1,17 @@
 # Advent of Code 2022
-I will try to do my fisrt AoC entirely in Gsheet/excel.
-There you find all solution converted in Excel, in this [GDrive](https://drive.google.com/drive/folders/1yzT71M4KlefFeoM2FBW96KCFNZM5IlY3) is available the original files.
+I will try to do my fisrt AoC entirely in Gsheet. Macros is not allowed, only formula in cells and filter/sorter.
+
+There you find all solution converted in Excel, otherwise in this [GDrive](https://drive.google.com/drive/folders/1yzT71M4KlefFeoM2FBW96KCFNZM5IlY3) is available the original Gsheets.
+
+## Status
+
+| Day  | Status | Day  | Status | Day  | Status | Day  | Status | Day  | Status |
+| ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ |
+| 01 | :star: :star: | 06 | :calendar: | 11 | :calendar:  | 16 | :calendar:  | 21 | :calendar:  |
+| 02 | :star: :star: | 07 | :calendar: | 12 | :calendar:  | 17 | :calendar:  | 22 | :calendar: |
+| 03 | :star: :star: | 08 | :calendar: | 13 | :calendar:  | 18 | :calendar: | 23 | :calendar: |
+| 04 | :star: :star: | 09 | :calendar: | 14 | :calendar:  | 19 | :calendar:  | 24 | :calendar: |
+| 05 | :star: :star: | 10 |  :calendar: | 15 | :calendar:  | 20 | :calendar: | 25 | :calendar: |
 
 <details><summary> <h3> Day 1: Calorie Counting </h3> </summary>
 Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
