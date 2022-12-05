@@ -3,6 +3,7 @@ I will try to do my fisrt AoC entirely in Gsheet. Macros is not allowed, only fo
 
 There you find all solution converted in Excel, otherwise in this [GDrive](https://drive.google.com/drive/folders/1yzT71M4KlefFeoM2FBW96KCFNZM5IlY3) is available the original Gsheets.
 
+
 ## Status
 
 | Day  | Status | Day  | Status | Day  | Status | Day  | Status | Day  | Status |
