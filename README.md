@@ -1,3 +1,7 @@
+![Brao Tecs](https://badgen.net/badge/TECS/Brao/blue)
+
+---
+
 # Advent of Code 2022
 I will try to do my fisrt AoC entirely in Gsheet/excel.
 There you find all solution converted in Excel, in this [GDrive](https://drive.google.com/drive/folders/1yzT71M4KlefFeoM2FBW96KCFNZM5IlY3) is available the original files.
