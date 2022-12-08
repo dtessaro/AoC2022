@@ -8,11 +8,11 @@ There you find all solution converted in Excel, otherwise in this [GDrive](https
 
 | Day  | Status | Day  | Status | Day  | Status | Day  | Status | Day  | Status |
 | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ |
-| [01](#day-01) | :star: :star: | 06 | :star: :star: | 11 | :calendar:  | 16 | :calendar:  | 21 | :calendar:  |
-| [02](#day-02) | :star: :star: | 07 | :star: :star: | 12 | :calendar:  | 17 | :calendar:  | 22 | :calendar: |
-| [03](#day-03) | :star: :star: | 08 | :star: :star: | 13 | :calendar:  | 18 | :calendar: | 23 | :calendar: |
-| [04](#day-04) | :star: :star: | 09 | :calendar: | 14 | :calendar:  | 19 | :calendar:  | 24 | :calendar: |
-| [05](#day-05) | :star: :star: | 10 |  :calendar: | 15 | :calendar:  | 20 | :calendar: | 25 | :calendar: :santa:|
+| [01](https://docs.google.com/spreadsheets/d/1A0sNJFwWck8OOaVDDl1MU8gJoP6k72rjmpz63XVyVLA) | :star: :star: | [06](https://docs.google.com/spreadsheets/d/1R3b7KG3BHH966ncscNaR7etprrDdvHfgV4oAK_rvAlM)  | :star: :star: | [11](https://adventofcode.com/2022/day/11) | :calendar:  | 16 | :calendar:  | [16](https://adventofcode.com/2022/day/16) | :calendar:  |
+| [02](https://docs.google.com/spreadsheets/d/1wE66VPQMly7SSfmni2gzvZu3EbaNUr_JPvsbHuJf_P4) | :star: :star: | [07](https://docs.google.com/spreadsheets/d/15nJ2HvotQ2Hq56hu9GJj2glF-8hY6E7ztNEK0TrWWyE/edit?usp=share_link)  | :star: :star: | [12](https://adventofcode.com/2022/day/12) | :calendar:  | 17 | :calendar:  | [17](https://adventofcode.com/2022/day/17) | :calendar: |
+| [03](https://docs.google.com/spreadsheets/d/13uU3vT3BHoqLxcpmSG1x3X1_wJxuCw7JbMnUjsw69cg) | :star: :star: | [08](https://docs.google.com/spreadsheets/d/1ivAnzsVLkOQgtWZCUIjG6uIt0n2iz1cnZCZr93qFIUI/edit?usp=share_link)  | :star: :star: | [13](https://adventofcode.com/2022/day/13) | :calendar:  | 18 | :calendar: | [18](https://adventofcode.com/2022/day18) | :calendar: |
+| [04](https://docs.google.com/spreadsheets/d/11HONnsibcynj_1MbeBiC9cVUi8i9HaVfdC9Kw6suA5g) | :star: :star: | [09]()  | :calendar:    | [14]() | :calendar:  | 19 | :calendar:  | [19]() | :calendar: |
+| [05](https://docs.google.com/spreadsheets/d/1CQ1ERaJB7gZwApTRkdIg7aFGxQELcLJhGOw93FPeqG0/edit?usp=share_link) | :star: :star: | [10]() |  :calendar:   | [15]() | :calendar:  | 20 | :calendar: | [21]() | :calendar: :santa:|
 
 ---
 ## Day 01
