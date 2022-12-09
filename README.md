@@ -1,3 +1,7 @@
+![Brao Tecs](https://badgen.net/badge/TECS/Brao/blue)
+
+---
+
 # Advent of Code 2022
 I will try to do my fisrt AoC entirely in Gsheet. Macros is not allowed, only formula in cells and filter/sorter.
 
